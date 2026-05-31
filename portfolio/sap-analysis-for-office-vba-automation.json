@@ -1,0 +1,18 @@
+{
+    "section":  "excelvba",
+    "category":  "vba-macros",
+    "n":  1,
+    "title":  "SAP Analysis for Office VBA Automation",
+    "desc":  "A premium Excel VBA automation cockpit for refreshing a full inventory of SAP Analysis for Office reports from a control panel, with prompt updates, status capture, timestamps, failure logging, and clean output exports.",
+    "code":  "https://github.com/Naadir-Dev-Portfolio/SAP-Analysis-for-Office-VBA-Automation/blob/main/README.md",
+    "details":  "https://github.com/Naadir-Dev-Portfolio/SAP-Analysis-for-Office-VBA-Automation/blob/main/README.md",
+    "tags":  [
+                 "Excel",
+                 "VBA",
+                 "SAP Analysis for Office",
+                 "VBA Automation",
+                 "AFO",
+                 "AO"
+             ]
+}
+

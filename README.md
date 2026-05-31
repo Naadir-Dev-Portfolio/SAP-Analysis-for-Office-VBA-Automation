@@ -1,6 +1,6 @@
-﻿# SAP Analysis for Office Report Orchestrator
+# SAP Analysis for Office VBA Automation
 
-A premium AFO/AO automation cockpit for refreshing a full inventory of SAP Analysis Office reports from an Excel control panel, with prompt updates, status capture, timestamps, failure logging, and clean output exports.
+A premium Excel VBA automation cockpit for refreshing a full inventory of SAP Analysis for Office reports from a control panel, with prompt updates, status capture, timestamps, failure logging, and clean output exports.
 
 ## Portfolio Status
 
@@ -10,10 +10,9 @@ This repository is a pre-created portfolio placeholder. The production workbook,
 
 - Build the core workbook, SQL assets, or Power Query solution.
 - Add representative sample data where safe to publish.
-- Add screenshots and portfolio card images under portfolio/.
+- Add screenshots and portfolio card images under `portfolio/`.
 - Expand this README with setup notes, architecture, and usage guidance.
 
 ## Portfolio Metadata
 
-The live portfolio card is defined in portfolio/sap-analysis-for-office-report-orchestrator.json.
-
+The live portfolio card is defined in `portfolio/sap-analysis-for-office-vba-automation.json`.

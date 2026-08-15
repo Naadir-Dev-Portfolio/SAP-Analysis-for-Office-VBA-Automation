@@ -1,18 +1,20 @@
 {
-    "section":  "excelvba",
-    "category":  "vba-macros",
-    "n":  1,
-    "title":  "SAP Analysis for Office VBA Automation",
-    "desc":  "A premium Excel VBA automation cockpit for refreshing a full inventory of SAP Analysis for Office reports from a control panel, with prompt updates, status capture, timestamps, failure logging, and clean output exports.",
-    "code":  "https://github.com/Naadir-Dev-Portfolio/SAP-Analysis-for-Office-VBA-Automation/blob/main/README.md",
-    "details":  "https://github.com/Naadir-Dev-Portfolio/SAP-Analysis-for-Office-VBA-Automation/blob/main/README.md",
-    "tags":  [
-                 "Excel",
-                 "VBA",
-                 "SAP Analysis for Office",
-                 "VBA Automation",
-                 "AFO",
-                 "AO"
-             ]
+  "section": "excelvba",
+  "category": "vba-macros",
+  "n": 1,
+  "title": "SAP Analysis for Office VBA Automation",
+  "img": "sap-analysis-for-office-vba-automation.png",
+  "imgFeatured": "sap-analysis-for-office-vba-automation-featured.png",
+  "desc": "A reusable Excel/VBA template that exposes the core SAPLogon, SAPSetFilter and RefreshData calls, then adds table-driven prompts, live operational KPIs, six charts, audit history, portable exports and a runnable offline simulation.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/SAP-Analysis-for-Office-VBA-Automation",
+  "details": "https://github.com/Naadir-Dev-Portfolio/SAP-Analysis-for-Office-VBA-Automation/blob/main/README.md",
+  "tags": [
+    "Excel",
+    "VBA",
+    "SAP Analysis for Office",
+    "SAPSetFilter",
+    "Batch Automation",
+    "Reporting",
+    "Audit Logging"
+  ]
 }
-
